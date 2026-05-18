@@ -26,7 +26,6 @@ Workshop 内容
 
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
 
    01技术教程/index.rst
