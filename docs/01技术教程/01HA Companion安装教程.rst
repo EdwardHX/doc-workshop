@@ -28,7 +28,7 @@ Home Assistant Companion 安装配置教程
 
 ·用解压软件打开zip，将base.apk和简中语言包split_config.zh.apk复制到手机。
 
-.. figure:: ../_static/zip.png
+.. figure:: docs/_static/zip.png
     :align: center
     :scale: 25%
 
