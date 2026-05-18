@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "知识分享"
+project = "Joe’s Archive"
 copyright = "2026, EdwardHX"
 author = "EdwardHX"
 
