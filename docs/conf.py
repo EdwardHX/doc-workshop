@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "技术文档实战"
-copyright = "2025, 文档小栈"
-author = "文档小栈"
+project = "知识分享"
+copyright = "2026, EdwardHX"
+author = "EdwardHX"
 
 
 # -- General configuration ---------------------------------------------------
